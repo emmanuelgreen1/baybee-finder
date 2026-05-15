@@ -1,9 +1,9 @@
 streamlit
 deepface==0.0.93
-tensorflow
-tf-keras
+tensorflow==2.16.1
+tf-keras==2.16.0
 opencv-python-headless
-numpy==1.26.4
+numpy
 Pillow
 matplotlib
 retina-face
