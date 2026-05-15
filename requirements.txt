@@ -1,6 +1,9 @@
-streamlit
-deepface
+streamlit==1.32.0
+deepface==0.0.79
 tf-keras
-opencv-python-headless
-numpy
-Pillow
+tensorflow==2.15.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+matplotlib==3.8.3
+retina-face==0.0.17
