@@ -1,6 +1,6 @@
 streamlit
 deepface==0.0.93
-tensorflow-cpu
+tensorflow
 tf-keras
 opencv-python-headless
 numpy==1.26.4
